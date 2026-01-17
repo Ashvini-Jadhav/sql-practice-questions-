@@ -1,0 +1,71 @@
+# SQL Practice File – README
+
+## 📌 Overview
+
+This repository contains a **SQL practice file** designed to help beginners and intermediate learners strengthen their SQL skills. The questions cover commonly asked **interview**, **assessment**, and **real-world database** scenarios.
+
+The file focuses on writing clean, optimized SQL queries with proper understanding of concepts.
+
+---
+
+## 🧠 Topics Covered
+
+The SQL practice file includes questions and examples based on:
+
+* Basic SQL Queries (SELECT, WHERE)
+* Filtering & Sorting (AND, OR, IN, BETWEEN, ORDER BY)
+* Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
+* GROUP BY & HAVING
+* Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN)
+* Subqueries
+* CASE Statements
+* Date & Time Functions
+* Window Functions (ROW_NUMBER, RANK, DENSE_RANK – if applicable)
+* Real Interview-Level Scenarios
+
+---
+
+## 🛠️ Requirements
+
+To practice these SQL queries, you need:
+
+* Any SQL-supported database:
+
+  * MySQL
+  * PostgreSQL
+  * SQL Server
+  * Oracle
+  * SQLite
+* SQL Editor or Tool:
+
+  * MySQL Workbench
+  * pgAdmin
+  * SQL Server Management Studio (SSMS)
+  * DBeaver
+
+---
+
+## 🚀 How to Use
+
+1. Open your SQL editor.
+2. Create the required tables as per the questions (or sample schema if provided).
+3. Run each query one by one.
+4. Try solving questions **yourself first**, then compare with optimized solutions.
+5. Practice variations of the same question for better understanding.
+
+---
+
+
+
+---
+
+
+---
+
+## 📬 Author
+
+**Ashvini Jadhav**
+SQL & Data Analytics Learner
+
+---
+
